@@ -4,32 +4,82 @@
 .my-beautiful-extension #nav-link-prime,
 .my-beautiful-extension #nav-shop,
 .my-beautiful-extension #leftNavContainer,
-.my-beautiful-extension #ad,
 .my-beautiful-extension #rhf-container,
 .my-beautiful-extension #navFooter,
-.my-beautiful-extension #nav-search-dropdown-card {
+.my-beautiful-extension #nav-search-dropdown-card,
+.my-beautiful-extension #nav-logo,
+.my-beautiful-extension #nav-subnav,
+.my-beautiful-extension #ape_Search_auto-left-advertising-1_portal-batch-fast-btf_placement,
+.my-beautiful-extension #ape_Search_auto-bottom-advertising-0_portal-batch-fast-btf_placement,
+.my-beautiful-extension #pdagEncapsulated,
+.my-beautiful-extension #result_1,
+.my-beautiful-extension #centerBelowExtra,
+.my-beautiful-extension #result_3,
+.my-beautiful-extension #sims-consolidated-1_feature_div,
+.my-beautiful-extension #desktop-dp-sims_session-similarities-sims-feature,
+.my-beautiful-extension #sims-consolidated-2_feature_div,
+.my-beautiful-extension #detail-ilm_div,
+.my-beautiful-extension #heroQuickPromo_feature_div,
+.my-beautiful-extension #quickPromoBucketContent,
+.my-beautiful-extension #descriptionAndDetails,
+.my-beautiful-extension #ask-dp-search_feature_div,
+.my-beautiful-extension #sp_detail2, 
+.my-beautiful-extension #dp-ads-center-promo_feature_div,
+.my-beautiful-extension #reviewsMedley,
+.my-beautiful-extension #apl_popover,
+.my-beautiful-extension #sims-fbt,
+.my-beautiful-extension #sp_detail,
+.my-beautiful-extension #desktop-dp-sims_purchase-similarities-sims-feature,
+.my-beautiful-extension #p13n-m-desktop-dp-sims_purchase-similarities-sims-feature-3, 
+.my-beautiful-extension #comparison_table_title,
+.my-beautiful-extension #moreBuyingChoices_feature_div,
+.my-beautiful-extension #amsDetailRight_feature_div,
+.my-beautiful-extension #sims-consolidated-3_feature_div,
+.my-beautiful-extension #sp_detail_endcap_shared,
+.my-beautiful-extension #ape_Detail_ad-endcap-1_Glance_placement_Feedback,
+.my-beautiful-extension #sims-consolidated-4_feature_div,
+.my-beautiful-extension #ape_Detail_dp-ads-center-promo_Desktop_placement,
+.my-beautiful-extension #ape_Detail_ad-endcap-1_Glance_placement,
+.my-beautiful-extension #HLCXComparisonWidget_feature_div {
 	display: none!important;
 }
 
 
-
 .my-beautiful-extension #navbar.nav-bluebeacon #nav-cart-count, 
-.my-beautiful-extension #navbar.nav-bluebeacon #nav-ewc-cart-count {
+.my-beautiful-extension #navbar.nav-bluebeacon #nav-ewc-cart-count  {
 	color: red!important;
 	font-size: 30px;
 	top: 4px;
 }
+.my-beautiful-extension #priceblock_ourprice {
+	color: red!important;
+	font-size: 40px!important;
+}
+.my-beautiful-extension .a-button-inner, .a-button-primary, .a-button-oneclick {
+	background: lightgrey!important;
+	border-color: white;
+}
 .my-beautiful-extension.this-is-home .nav-searchbar {
 	position: fixed;
 	margin-top:300px;
-	margin-left: 20%;
+	margin-left: 35%;
+
+}
+
+.my-beautiful-extension #nav-search {
+	padding-left: 15px;
+	
+}
+
+.my-beautiful-extension #s-results-list-atf {
+	margin: 0px 0px 0px -100px;
 }
 
 .my-beautiful-extension #nav-search .nav-search-field .nav-input {
-	border: 1px solid black;
+	border: 1px solid grey;
 } 
 
-.my-beautiful-extension a.nav-sprite{
+.my-beautiful-extension a.nav-sprite .nab.subnav {
 	display: none;
 }
 
