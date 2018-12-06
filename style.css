@@ -1,0 +1,45 @@
+.my-beautiful-extension #pageContent,
+.my-beautiful-extension #nav-swmslot,
+.my-beautiful-extension #nav-xshop-container,
+.my-beautiful-extension #nav-link-prime,
+.my-beautiful-extension #nav-shop,
+.my-beautiful-extension #leftNavContainer,
+.my-beautiful-extension #ad,
+.my-beautiful-extension #rhf-container,
+.my-beautiful-extension #navFooter,
+.my-beautiful-extension #nav-search-dropdown-card {
+	display: none!important;
+}
+
+
+
+.my-beautiful-extension #navbar.nav-bluebeacon #nav-cart-count, 
+.my-beautiful-extension #navbar.nav-bluebeacon #nav-ewc-cart-count {
+	color: red!important;
+	font-size: 30px;
+	top: 4px;
+}
+.my-beautiful-extension.this-is-home .nav-searchbar {
+	position: fixed;
+	margin-top:300px;
+	margin-left: 20%;
+}
+
+.my-beautiful-extension #nav-search .nav-search-field .nav-input {
+	border: 1px solid black;
+} 
+
+.my-beautiful-extension a.nav-sprite{
+	display: none;
+}
+
+.my-logo-home{
+	display: none;
+	margin-bottom: 10px;
+	width: 150px;
+}
+
+.my-beautiful-extension.this-is-home .my-logo-home{
+	display: unset!important;
+}
+
