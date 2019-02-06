@@ -1,0 +1,150 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1, h2, h3, h4, a { color: #C03; font-family: 'Amaranth', sans-serif;}
+h3{
+color:#fff;
+background:#F03;
+padding:10px;	
+}
+body { 
+	color: #555; 
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	background:url(../images/bg.jpg) #000 no-repeat center center fixed; 
+	-webkit-background-size: cover;
+  background-size: cover;	
+}
+hr {
+	height:1px; 
+	background-color:#ddd; 
+	border:none;	
+}
+
+
+/* STILE VIDEO */
+
+video{
+	position:fixed;
+	left:0;top:0;
+	min-width:100%;
+	min-height:100%;
+	width:auto;
+	height:auto;
+	z-index:-100;
+	
+	visibility: visible;
+}
+
+/* STILE LAYOUT DELLA PAGINA */
+
+.contenitore_centro{
+	margin: 0 auto;
+	width: 95%;
+	max-width: 960px;
+	line-height: 1.6em;	
+	
+}
+
+.wrapper{
+	background: #fff;
+	padding: 40px 0;
+	
+}
+
+box{
+	float: left;
+	width: 30%;
+	padding: 0 1.5%;	
+}
+
+.clearfix{ clear: both; }
+
+
+/* STILE LOGO*/
+
+img{
+position: relative;
+left: 0px;
+top: -170px
+}
+
+
+
+h1
+
+{color: white;
+font-weight: bold;
+font-family: "Lato";
+font-weight: 300;
+font-style:  normal;
+word-spacing: 0.5em;
+text-align: left;
+line-height: 4;
+padding-left: 15px;
+position: relative;
+left: 900px;
+top: -40px;
+    
+}
+
+h2
+
+{color: black;
+background-color: orange;
+height: 420px;
+width: 70%;
+font-weight: normal;
+font-family: "Lato";
+font-style:  normal;
+word-spacing: 0.5em;
+text-align: left;
+line-height: 2;
+padding-left:200px;
+padding-right: 200px;
+padding-top: 20px;
+
+position: absolute;
+left: 0px;
+top: 1000px;
+    
+}
+
+h1:hover{
+color: white;
+font-weight: bold;
+font-family: "Lato";
+font-weight: 800;
+font-style:  normal;
+word-spacing: 0.5em;
+text-align: left;
+line-height: 4;
+padding-left: 15px;
+position: relative;
+left: 900px;
+top: -40px;
+}
+
+p{
+color: black;
+background-color: white;
+height: 420px;
+width: 70%;
+font-weight: normal;
+font-family: "Lato";
+font-style:  normal;
+word-spacing: 0.5em;
+text-align: left;
+line-height: 2;
+padding-left:200px;
+padding-right: 200px;
+padding-top: 20px;
+
+position: absolute;
+left: 0px;
+top: 1000px;
+
+}
+
+
+
+
