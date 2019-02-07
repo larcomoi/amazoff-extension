@@ -16,6 +16,10 @@ body {
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* STILE VIDEO */
 
 video{
@@ -38,7 +42,11 @@ video{
 .description{
 	background-color: white;
 	height: 100vh;
-	padding: 20px;
+	padding: 100px;
+}
+
+.description-text {
+max-width: 600px;
 }
 
 .about{
@@ -47,10 +55,17 @@ video{
 }
 
 .download{
+	font-size: 30px;
+	
 	
 }
 
 .description p{
+	font: Arial;
+	font-weight: 24px;
+	color: black;
+	line-height: 28px;
+
 
 
 }
